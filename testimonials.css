@@ -1,0 +1,31 @@
+#login{
+    align-items: center;
+    color: black;
+    background-color: #dfe3ee;
+    border: 1px;
+    border-radius: 5px;
+}
+#login:hover{
+    border-style: double;
+    background-color:#eae6e1;
+    color: black;
+    border-color: rgb(12, 185, 67);
+}
+#button{
+    size: 800px;
+    border-style:px;
+}
+#button:hover{
+    background-color: #f6a935;
+            color: white;
+}
+body{
+    background-image: ;
+}
+#lebel{    
+ 
+   padding: 16px 16px;
+    color:black;
+    font-weight: lighter;
+}
+
